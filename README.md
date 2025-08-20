@@ -1,10 +1,9 @@
 ## 👋 Hi, I'm Yulianna  
 
-I’m a **Hardware Engineer** with 20 years of experience in **PCB design, embedded systems, and prototyping**.  
-Unlike many hardware engineers, I actively use **GitHub** to document and share my work — from fixing legacy electronics to developing DIY audio devices.  
+I’m a **hardware engineer** who enjoys working on **PCB design, embedded systems, and prototyping**.  
+Unlike many hardware engineers, I use **GitHub** to document and share my work — from fixing legacy electronics to building DIY audio devices.  
 
 I believe in making hardware **transparent, shareable, and inspiring**, just like open-source software.  
-
 ---
 
 ### 🛠️ What You'll Find Here
