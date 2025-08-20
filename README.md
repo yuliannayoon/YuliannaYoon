@@ -16,7 +16,6 @@ I believe in making hardware **transparent, shareable, and inspiring**, just lik
 ---
 
 ### 🌍 Why I Moved to Germany
-### 🌍 Why I Moved to Germany  
 
 For as long as I can remember, I’ve wanted to live and work as an engineer in another country. I always thought that once the right time came, I would take that step and continue my career in a different cultural environment.  
 
