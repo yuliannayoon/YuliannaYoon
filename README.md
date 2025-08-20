@@ -37,5 +37,5 @@ I’m always open to:
 - Discussions on **bridging hardware and software practices**  
 
 📧 Email: yulianna.yoon@gmail.com  
-🌐 [LinkedIn](https://linkedin.com/in/YOUR-LINK)  
-💻 [Portfolio CV & Projects](https://github.com/YOUR-USERNAME/hardware-portfolio)  
+🌐 [LinkedIn](https://linkedin.com/in/yulianna-yoon-xmars369369)  
+💻 [Portfolio CV & Projects](https://github.com/YOUR-USERNAME/hardware-portfolio)  //
