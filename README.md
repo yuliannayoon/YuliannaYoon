@@ -38,4 +38,4 @@ I’m always open to:
 
 📧 Email: yulianna.yoon@gmail.com  
 🌐 [LinkedIn](https://linkedin.com/in/yulianna-yoon-xmars1010) 
-💻 [Portfolio CV & Projects](https://github.com/yuliannayoon/cv)  //
+💻 [Portfolio & Projects](https://github.com/yuliannayoon/cv)  //
