@@ -23,10 +23,12 @@ I utilize GitHub to build my personal **Engineering Database**. This is a dedica
 
 ## 🤝 Let’s Connect
 I’m always excited to collaborate on **Open Hardware** initiatives and discuss **Engineering Transparency**. Whether you want to talk about EMI/EMC troubleshooting or the future of DIY audio, feel free to reach out!
+> 📑 **[Primary Link] View My Full CV & Resume:** [**github.com/yuliannayoon/cv**](https://github.com/yuliannayoon/cv)
 
 * 📧 **Email:** [yulianna.yoon@gmail.com](mailto:yulianna.yoon@gmail.com)
 * 🌐 **LinkedIn:** [In/yulianna-yoon-xmars1010](https://linkedin.com/in/yulianna-yoon-xmars1010)
 * 📥 **Curriculum Vitae:** [Download PDF CV](https://github.com/yuliannayoon/assets/raw/main/Yulianna_Yoon_CV.pdf)
+*  🔗 [**Explore Technical Deep-Dive**](https://github.com/yuliannayoon/obelab)
 * 💻 **Portfolio:** [Project Deep-Dives](https://github.com/yuliannayoon/obelab)
 
 ---
