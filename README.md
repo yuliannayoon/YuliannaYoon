@@ -23,3 +23,40 @@ I’m always open to:
 📧 Email: yulianna.yoon@gmail.com  
 🌐 [LinkedIn](https://linkedin.com/in/yulianna-yoon-xmars1010) 
 💻 [Portfolio & Projects](https://github.com/yuliannayoon/cv)  //
+
+
+# 👋 Hi, I'm Yulianna Yoon
+
+### ⚡ Hardware & Embedded Systems Engineer 
+**Bridging the gap between robust hardware design and open-source transparency.**
+
+---
+
+## 🐙 About Me
+I am a **Hardware Engineer** specializing in **Mixed-Signal Circuit Design**, PCB layout, and rapid prototyping. My expertise lies in architecting systems that seamlessly integrate sensitive **Analog** biosignals with high-speed **Digital** processing.
+
+Unlike the traditional hardware approach, I leverage **GitHub** to document my entire engineering process—from revitalizing legacy electronics to architecting complex, low-power wearable devices. I believe hardware should be **transparent, shareable, and inspiring**, adopting the best practices of open-source software to build more reliable and collaborative physical systems.
+
+---
+
+## 🛠️ What You'll Find Here
+- **⚡ Mixed-Signal Design:** Experiments in interfacing precision analog front-ends (AFE) with digital MCUs.
+- **📐 High-Density PCB Layout:** Miniaturization and signal integrity (SI) optimization for wearable tech.
+- **🔧 Hardware Forensics & Repair:** Deep-dive DIY and repair projects with comprehensive engineering notes.
+- **🎶 Audio Engineering:** Custom Bluetooth speakers and high-fidelity analog circuit builds.
+- **📸 Prototyping Gallery:** A blend of professional industrial projects and personal hardware hobbies.
+
+---
+
+## 🤝 Let’s Connect
+I’m always excited to collaborate on **Open Hardware** initiatives and discuss **Engineering Transparency**. Whether you want to talk about EMI/EMC troubleshooting or the future of DIY audio, my door is always open.
+
+* 📧 **Email:** [yulianna.yoon@gmail.com](mailto:yulianna.yoon@gmail.com)
+* 🌐 **LinkedIn:** [In/yulianna-yoon-xmars1010](https://linkedin.com/in/yulianna-yoon-xmars1010)
+* 📥 **Curriculum Vitae:** [Download PDF CV](https://github.com/yuliannayoon/assets/raw/main/Yulianna_Yoon_CV.pdf)
+* 💻 **Portfolio:** [Project Deep-Dives](https://github.com/yuliannayoon/obelab)
+
+---
+
+### 📊 My Tech Stack
+`Analog/Digital Mixed-Signal` `Altium Designer` `nRF52` `BLE` `Wireless Charging` `Rigid-Flex PCB` `EMI/EMC`
