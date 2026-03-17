@@ -23,7 +23,7 @@ I utilize GitHub to build my personal **Engineering Database**. This is a dedica
 
 ## 🤝 Let’s Connect
 I’m always excited to collaborate on **Open Hardware** initiatives and discuss **Engineering Transparency**. Whether you want to talk about EMI/EMC troubleshooting or the future of DIY audio, feel free to reach out!
-> 📑 **[Primary Link] View My cv summary :** [**github.com/yuliannayoon/cv**](https://github.com/yuliannayoon/cv)
+* 📑 **[Primary Link] View My cv summary :** [**github.com/yuliannayoon/cv**](https://github.com/yuliannayoon/cv)
 
 * 📧 **Email:** [yulianna.yoon@gmail.com](mailto:yulianna.yoon@gmail.com)
 * 🌐 **LinkedIn:** [In/yulianna-yoon-xmars1010](https://linkedin.com/in/yulianna-yoon-xmars1010)
